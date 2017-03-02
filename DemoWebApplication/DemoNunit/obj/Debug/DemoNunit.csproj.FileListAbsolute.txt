@@ -1,0 +1,8 @@
+D:\SampleDemo\DemoWeApplication\DemoNunit\bin\Debug\DemoNunit.dll
+D:\SampleDemo\DemoWeApplication\DemoNunit\bin\Debug\DemoNunit.pdb
+D:\SampleDemo\DemoWeApplication\DemoNunit\bin\Debug\Addition.dll
+D:\SampleDemo\DemoWeApplication\DemoNunit\bin\Debug\nunit.framework.dll
+D:\SampleDemo\DemoWeApplication\DemoNunit\bin\Debug\Addition.pdb
+D:\SampleDemo\DemoWeApplication\DemoNunit\obj\Debug\DemoNunit.csprojResolveAssemblyReference.cache
+D:\SampleDemo\DemoWeApplication\DemoNunit\obj\Debug\DemoNunit.dll
+D:\SampleDemo\DemoWeApplication\DemoNunit\obj\Debug\DemoNunit.pdb

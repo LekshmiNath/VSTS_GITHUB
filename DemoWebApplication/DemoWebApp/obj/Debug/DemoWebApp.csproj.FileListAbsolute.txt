@@ -1,0 +1,8 @@
+D:\SampleDemo\DemoWeApplication\DemoWebApp\bin\DemoWebApp.dll.config
+D:\SampleDemo\DemoWeApplication\DemoWebApp\bin\DemoWebApp.dll
+D:\SampleDemo\DemoWeApplication\DemoWebApp\bin\DemoWebApp.pdb
+D:\SampleDemo\DemoWeApplication\DemoWebApp\bin\Addition.dll
+D:\SampleDemo\DemoWeApplication\DemoWebApp\bin\Addition.pdb
+D:\SampleDemo\DemoWeApplication\DemoWebApp\obj\Debug\DemoWebApp.csprojResolveAssemblyReference.cache
+D:\SampleDemo\DemoWeApplication\DemoWebApp\obj\Debug\DemoWebApp.dll
+D:\SampleDemo\DemoWeApplication\DemoWebApp\obj\Debug\DemoWebApp.pdb
